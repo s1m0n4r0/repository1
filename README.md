@@ -16,3 +16,4 @@ in the readme file you can add whatever you want
 
 #### titolo2
 
+![headshot](trucioli.jpg)
